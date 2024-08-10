@@ -13,3 +13,8 @@
 /build
 /temp
 /out
+
+mingw-build
+msvc-build
+cmake-build
+build
